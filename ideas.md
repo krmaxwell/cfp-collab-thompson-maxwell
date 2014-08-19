@@ -6,6 +6,8 @@
 - Tricks for python data manipulation
 - Ten tips for data manipulation
 - Security data manipulation and enrichment
+- The 10 secrets professional Python programmers don't want you to know
+- These 10 weird tricks make your python go from good to great!
 
 # Things we might talk about
 
