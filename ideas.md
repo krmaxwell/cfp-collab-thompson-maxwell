@@ -1,4 +1,11 @@
-# Things I wish I knew about Python sooner
+# Potential titles for the talk
+
+- Things I wish I knew about Python sooner
+- Things I wish I knew sooner
+- Be lazy. Tips for easier code
+- Tricks for python data manipulation
+
+# Things we might talk about
 
 - collections.Counter
 - dict.get
@@ -14,3 +21,6 @@
 - generators
 
 "you must unlearn what you have learned"
+
+One idea: we should avoid using slides and try to do the whole talk using an 
+iPython or Beaker notebook.
