@@ -4,6 +4,8 @@
 - Things I wish I knew sooner
 - Be lazy. Tips for easier code
 - Tricks for python data manipulation
+- Ten tips for data manipulation
+- Security data manipulation and enrichment
 
 # Things we might talk about
 
@@ -22,5 +24,19 @@
 
 "you must unlearn what you have learned"
 
-One idea: we should avoid using slides and try to do the whole talk using an 
+One idea: we should avoid using slides and try to do the whole talk using an
 iPython or Beaker notebook.
+
+
+# Integrating examples
+We were talking about spending a short amount of time on several of the ideas
+and then using an integrating example to bring them all together. So we might
+spend 1 each talking about dict.get, collections.counter and with open(filename).
+Then we would have an example where we want to open every file in VCDB, load the json,
+get hacking variety (if present) and count the most frequent examples.
+
+We could spend 1 minute each talking about argparse and requests and parallel requests.
+Then have an example where you write a script that allows a person to read a file or
+take input from stdin that is a list of ip addresses. Then use requests to pull
+geolocation data for each of them and maybe write the output to a file. If there are
+a lot of ip addresses make parallel requests to speed up the process.
