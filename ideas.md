@@ -6,7 +6,7 @@
 - Tricks for python data manipulation
 - Ten tips for data manipulation
 - Security data manipulation and enrichment
-- The 10 secrets professional Python programmers don't want you to know
+- The 10 secrets professional Python programmers dont want you to know
 - These 10 weird tricks make your python go from good to great!
 
 # Things we might talk about
@@ -23,11 +23,9 @@
 - list comprehensions
 - with open(filename, 'rb') as f: (contexts)
 - generators
+- prettyplotlib
 
 "you must unlearn what you have learned"
-
-One idea: we should avoid using slides and try to do the whole talk using an
-iPython or Beaker notebook.
 
 
 # Integrating examples
@@ -42,3 +40,5 @@ Then have an example where you write a script that allows a person to read a fil
 take input from stdin that is a list of ip addresses. Then use requests to pull
 geolocation data for each of them and maybe write the output to a file. If there are
 a lot of ip addresses make parallel requests to speed up the process.
+
+Alternate examples between presenter. One shows "old and busted" first, then other explains "new hotness". For next example, switch.
