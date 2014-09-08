@@ -11,7 +11,7 @@ The Secrets Professional Python Programmers Don't Want You To Know
 
 # Description
 
-Beginning Python programmers often copy patterns recipes, and idioms from other
+Beginning Python programmers often copy patterns, recipes, and idioms from other
 languages or rely on older tutorials that might not show some of the newer,
 hotter features of the language. In this talk, we'll demonstrate examples of
 things that can make your Python more fun, more readable, and more robust.
