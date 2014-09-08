@@ -25,7 +25,7 @@ Newer Python programmers
 3: attendees will learn how to integrate new tools into their existing workflows.
 
 # Detailed Abstract
-Many people use Python as a tool to solve problems and analyze data rather than to produce code for others. We write code to help us do our jobs, not just write code as our job. Pythonistas like this don't often get to learn from code that others have written or exploring modules and features beyond the basic tutorials they might have followed. In this talk given by two data analysts, we will show programmers who are ready to move from a "novice" to an "intermediate" level a number of ideas to improve their capabilities. Some of these are very simple while others are simple explanations of deeper topics. Examples include better use of built-in data structures, new tools to analyze and visualize data, and dealing with data from the web in various forms. Each of these ideas is framed as part of a larger integrating narrative that makes them practical and entertaining.
+Many people use Python as a tool to solve problems and analyze data rather than to produce code for others. We write code to help us do our jobs, not just write code as our job. Pythonistas like this don't often get to learn from code that others have written or exploring modules and features beyond the basic tutorials we might have followed. In this talk given by two data analysts, we'll show programmers who are ready to move from a "novice" to an "intermediate" level a number of ideas to improve their capabilities. Some of these are very simple, while others are simple explanations of deeper topics. Examples include better use of built-in data structures, new tools to analyze and visualize data, and dealing with data from the web in various forms. Each of these ideas is framed as part of a larger integrating narrative that makes them practical and entertaining.
 
 # Outline
 
@@ -33,14 +33,14 @@ Many people use Python as a tool to solve problems and analyze data rather than 
 - Example 1: VCDB (8 minutes)
   - dict.get()
   - collections.Counter
-  - contexts
+  - contexts (`with` statements)
 - Example 2: Fetching information (8 minutes)
-  - argparse
+  - argparse vs optparse. CLI frameworks.
   - list comprehensions
   - generators
   - requests / grequests
 - Example 3: Experimenting with data (8 minutes)
-  - IPython and Beaker notebook
+  - IPython and Beaker notebooks.
   - Data frames
   - prettyplotlib
 - Example 4: Scraping (8 minutes, optional if selected for 45 minute slot)
