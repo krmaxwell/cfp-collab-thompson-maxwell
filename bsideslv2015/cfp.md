@@ -39,10 +39,10 @@ small and medium businesses lack the budget to purchase expensive tools to gain 
 their own infrastructure or integrate open source feeds into their operations. We are
 developing a tool to make that easier for places with no budget. This tool will
 perform log file analysis to aggregate information and create reports without making
-the user learn Kibana or pay for splunk. The tool will report about frequently-seen
-events as well as ip addresses, and domains. The tool can also ingest a threat
-intelligence feed and report on known-bad indicators which are appearing in the users
-log files.
+the user learn awesome yet complicated tools or buy more than they need/can afford. The tool will:
+1. Report about frequently-seen events as well as ip addresses, and domains
+2. Ingest a threat intel feed(s) and report on known-bad indicators found in user log files
+3.  Provide options for scheduled vs. immediate configuration changes
 
 Outline:
 1. Introduction
